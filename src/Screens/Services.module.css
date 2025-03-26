@@ -1,0 +1,19 @@
+
+.servicioimagen{
+    width: 490px;
+    height: 450px;
+    padding-bottom: 20px;
+}
+.services{
+    display: flex;
+    padding-top: 40px;
+    align-items: center;
+    flex-direction:column ;
+    background: linear-gradient(0deg,#1a1826,#413b5e);
+}
+.services p{
+    color: #f1f1f1f1;
+    font-size: 1.5em;
+    text-align: left;
+    padding-bottom: 40px;
+}
